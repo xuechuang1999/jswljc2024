@@ -12,7 +12,7 @@ int main()
     for (int i =0; i<5; i++)
     {
         printf("请输入第%d位学生的ID: ", i+1);
-        scanf("%8s", &id[i]);
+        scanf("%s", &id[i]);
         printf("请输入%s同学的计算物理和英语分数: ", &id[i]);
         scanf("%d %d", &cpscore[i], &engscore[i]);
         final_cpscore[i] = sqrt(cpscore[i]) * 10;
