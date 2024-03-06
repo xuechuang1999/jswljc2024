@@ -4,7 +4,7 @@
 
 int main()
 {
-    char id[5]={'0','0,0,0,0};
+    char id[5]={'0','0','0','0','0'};
     int cpscore[5]={0,0,0,0,0};
     int engscore[5]={0,0,0,0,0};
     int final_cpscore[5]={0,0,0,0,0};
