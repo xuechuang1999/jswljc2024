@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+
+//将函数进行封装，目前版本仍有bug
 int main()
 {
     char id[5] = {'0', '0', '0', '0', '0'};
