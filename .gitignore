@@ -1,2 +1,6 @@
 *.exe
+<<<<<<< HEAD
+=======
+*.json
+>>>>>>> d8b4ed0376e1fdfaf0513d5cabaa9e1a819b0268
 .vscode/*
